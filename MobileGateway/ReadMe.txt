@@ -1,0 +1,1 @@
+Mobile Gateway codebase for exposing APIs for mobile application use that sends data from devices connectible to mobile devices via bluetooth.
