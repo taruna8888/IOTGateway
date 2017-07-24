@@ -1,0 +1,5 @@
+server:
+  port: 8182
+bootstrap.servers: localhost:9092
+logging.level.org.springframework.web: DEBUG
+logging.file: ./welloculus-iot-gateway.log

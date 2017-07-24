@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: CommerceToolStateMachine
+  profiles:
+    active: development
+  cloud:
+    config:
+      uri: http://localhost:9999
+encrypt:
+  failOnError: false
