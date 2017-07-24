@@ -1,0 +1,1 @@
+IOT Gateway codebase using Eclipse Kura for Raspbian and Debian supported devices.

@@ -1,0 +1,1 @@
+Integration of Kura and Mobile gateways with Apache Kafka topics for data streaming and consumption by real time analytics and cockpit.
